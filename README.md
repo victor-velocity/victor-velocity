@@ -83,16 +83,11 @@ Some of my public projects are available below, while my portfolio showcases add
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=victor-velocity&show_icons=true&hide_border=true&rank_icon=github" />
-</p>
+I use GitHub to document my learning, experiment with new technologies, and build projects that help me grow as a software engineer.
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor-velocity&hide_border=true" />
-</p>
-
+Most of my professional work is private, so my public repositories represent only a portion of the products and systems I work on.
 ---
 
 ## 🤝 Let's Connect
